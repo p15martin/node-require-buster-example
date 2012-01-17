@@ -1,0 +1,9 @@
+An example Node project that uses Require.JS and demonstrates the use of Buster.JS (and Sinon.JS) for TDD.
+
+Usage
+
+Install the dependancies (see package.json): npm install
+
+Install Buster.JS: sudo npm install -g buster
+
+Run the tests: buster test
